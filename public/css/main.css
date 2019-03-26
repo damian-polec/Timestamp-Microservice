@@ -1,0 +1,45 @@
+body {
+  background: #fafafa;
+}
+
+h1, h2 {
+  text-align: center;
+}
+span {
+  font-weight: bold;
+}
+code {
+  background: #fff;
+}
+.userStories {
+  margin: 0 25%;
+  line-height: 25px;
+  font-size: 18px;
+}
+.examples {
+  margin: 0 25%;
+  font-size: 25px;
+  line-height: 40px;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+.output {
+  text-align: center;
+  font-size: 18px;
+}
+
+.test {
+  margin: 0 25%;
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
+input, button {
+  height: 2rem;
+}
